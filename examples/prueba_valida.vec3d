@@ -1,0 +1,12 @@
+vec a = (1, 2, 3);
+vec b = (4, 5, 6);
+imprimir dot(a, b);
+imprimir cross(a, b);
+imprimir norm(a);
+vec c = a + b;
+imprimir c;
+
+var umbral = 30;
+si (dot(a, b) > umbral) {
+    imprimir "Producto punto alto";
+}

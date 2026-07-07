@@ -1,0 +1,3 @@
+vec a = (1, 2);
+vec b = (3, 4, 5);
+imprimir dot(a, b);
