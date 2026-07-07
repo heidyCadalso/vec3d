@@ -1,0 +1,16 @@
+Proyecto Final - Compiladores
+Vec3D (Estudiante 6)
+Heidy cadalso Ramirez
+
+Codigo fuente:
+https://github.com/heidyCadalso/vec3d
+
+Archivos incluidos:
+- DOCUMENTO_TECNICO.pdf
+- README.md
+- prueba_valida.vec3d
+- prueba_error_sintactico.vec3d
+- prueba_error_semantico.vec3d
+
+Requisito: Python 3.10+
+Instrucciones en README.md
